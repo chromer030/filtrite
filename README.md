@@ -9,6 +9,11 @@ You can choose any list from the table, then hold the name to copy its link. Add
 | [German](https://github.com/chromer030/filtrite/releases/latest/download/german.dat) | The "Bromite Extended" list with additional region-specific blocklists for german sites |
 | [Persian](https://github.com/chromer030/filtrite/releases/latest/download/persian.dat) | The "Bromite Extended" list with additional region-specific blocklists for persian sites |
 | [German + Persian](https://github.com/chromer030/filtrite/releases/latest/download/german+persian.dat) | The "Bromite Extended" list with additional region-specific blocklists for persian and german sites |
+| [Arabic](https://github.com/chromer030/filtrite/releases/latest/download/arabic.dat) | The "Bromite Extended" list with additional region-specific blocklists for arabic sites |
+| [French](https://github.com/chromer030/filtrite/releases/latest/download/french.dat) | The "Bromite Extended" list with additional region-specific blocklists for french sites |
+| [Italian](https://github.com/chromer030/filtrite/releases/latest/download/italian.dat) | The "Bromite Extended" list with additional region-specific blocklists for italian sites |
+| [Swedish](https://github.com/chromer030/filtrite/releases/latest/download/swedish.dat) | The "Bromite Extended" list with additional region-specific blocklists for swedish sites |
+| [Turkish](https://github.com/chromer030/filtrite/releases/latest/download/turkish.dat) | The "Bromite Extended" list with additional region-specific blocklists for turkish sites |
 
 Alternatively, you can [go here to search forks of this project](https://filterlists.010.one/) for more lists, e.g. for other countries.
 
