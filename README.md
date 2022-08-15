@@ -11,6 +11,8 @@ You can choose any list from the table, then hold the name to copy its link. Add
 | [Bromite Extended (Soft)](https://github.com/chromer030/filtrite/releases/latest/download/bromite-extended-soft.dat) | Same as the "Bromite Extended" list, but with less aggressive filtering (should break fewer sites) |
 | [German](https://github.com/chromer030/filtrite/releases/latest/download/german.dat) | The "Bromite Extended" list with additional region-specific blocklists for german sites |
 | [Persian](https://github.com/chromer030/filtrite/releases/latest/download/persian.dat) | The "Bromite Extended" list with additional region-specific blocklists for persian sites |
+| [German + Persian](https://github.com/chromer030/filtrite/releases/latest/download/german+persian.dat) | The "Bromite Extended" list with additional region-specific blocklists for persian and german sites |
+
 Alternatively, you can [go here to search forks of this project](https://filterlists.010.one/) for more lists, e.g. for other countries.
 
 
